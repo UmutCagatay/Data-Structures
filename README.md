@@ -1,2 +1,2 @@
 # School-Projects
-This file for my School Projects. I'm uploading my completed projects to my github.
+In this repository, I uploaded projects which is I developed for school tasks.
