@@ -1,0 +1,4 @@
+profil -> sanatçı, dinletiyici	profiller takipleşebilir
+şarkı -> sanatçı, kategori, albüm, single
+podcast -> sanatçı, podcast_kategori
+çalmalistesi -> kitaplık(profile ait)
