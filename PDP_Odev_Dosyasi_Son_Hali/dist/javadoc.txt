@@ -1,0 +1,41 @@
+  Sinif: Motor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fonksiyon: Motor
+
+/**
+* Varsayılan kurucu fonksiyon
+*/
+
+-------------------------------------------
+Fonksiyon: Motor2
+
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+
+-------------------------------------------
+Fonksiyon: calistir
+
+/**
+* calisiyor true yapılıyor
+*/
+
+-------------------------------------------
+Fonksiyon: durdur
+
+/**
+* Motorun durdurulması //
+*/
+
+-------------------------------------------
+Fonksiyon: getMotorNo
+
+
+-------------------------------------------
+Fonksiyon: toString
+
+
+-------------------------------------------
+
